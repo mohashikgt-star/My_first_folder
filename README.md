@@ -1,2 +1,3 @@
 # My_first_folder
-basic_statistics 
+basic statistics 
+to find mean, median and mode
